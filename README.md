@@ -40,8 +40,6 @@ I'm **[`EmperorYetiandi`](https://www.youtube.com/@emperorchenbeixuan6282)**, a 
 
 👉 Still Learning Bug hunting & malware forensics.
 
-👉 Managing Tech Communities
-
 👉 Writing Some Useful Tools For Myself 
 
 👉 Building & Contributing To Open Source Projects
