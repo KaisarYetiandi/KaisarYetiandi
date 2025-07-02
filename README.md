@@ -22,7 +22,7 @@ I'm **[`EmperorYetiandi`](https://www.youtube.com/@emperorchenbeixuan6282)**, a 
   <summary>More about me</summary>
 
 - **Name**: EmperorYetiandi 
-- **From**: Indonesian
+- **From**: Indonesia
 - **Bug Hunter** | **Security Researcher** | **forensics Analyst**
 - i have experience in **Cracking**,**Reverse Engineering**,**Malware Analysis**,**Social engineering**,**Detective spy**
 - Improving knowledge in **Webapp Vulnerabilities**
